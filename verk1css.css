@@ -1,0 +1,47 @@
+h1{
+	text-align: center;
+	font-family: elephant;
+	color: blue;
+}
+h2{
+	font-family: cooper;
+	margin-bottom: 5px;
+    text-decoration: underline;
+    color: red;
+}
+p{
+	font-family: arial;
+}
+h3{
+	font-family: cambria;
+	margin: 5px;
+	border: 10px;
+	border-color: red;
+	padding: 3px;
+}
+body {
+  width: 100%;
+  max-width: 50em;
+}
+strong{
+	color: blue;
+}
+ul{
+	color: indigo;
+}
+em{
+	color: darkgreen;
+}
+a:link {
+    color: #FF0000;
+    background-color: #0000FF;
+}
+a:visited {
+    color: #00FF00;
+}
+a:hover {
+    color: #FF00FF;
+}
+a:active {
+    color: #0000FF;
+}
